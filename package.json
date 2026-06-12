@@ -32,7 +32,7 @@
     "@ionic/storage": "^2.2.0",
     "cordova-android": "7.1.4",
     "cordova-plugin-device": "^2.0.3",
-    "cordova-plugin-inappbrowser": "^3.2.0",
+    "cordova-plugin-inappbrowser": "^6.0.1",
     "cordova-plugin-ionic-keyboard": "^2.2.0",
     "cordova-plugin-ionic-webview": "^3.1.2",
     "cordova-plugin-splashscreen": "^5.0.3",
